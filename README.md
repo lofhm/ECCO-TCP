@@ -1,5 +1,12 @@
 # ECCO-TCP XML and SGML files
 
+## What does ECCO-TCP mean?
+
+ECCO means Eighteenth Century Collections Online. From the internet webs:
+>ECCO includes every significant English-language and foreign-language title printed in the United Kingdom during the 18th century, along with thousands of important works from the Americas. --[ECCO-TCP Website](http://www.textcreationpartnership.org/tcp-ecco/)
+
+## What is the TCP?
+>The Text Creation Partnership creates standardized, accurate XML/SGML encoded electronic text editions of early print books. We transcribe and mark up the text from the millions of page images in ProQuest's Early English Books Online, Gale Cengage's Eighteenth Century Collections Online, and Readex's Evans Early American Imprints. --[Text Creation Partnership Website](http://www.textcreationpartnership.org/)
 
 ## What is this?
 
