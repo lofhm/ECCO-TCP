@@ -10,14 +10,14 @@ ECCO means Eighteenth Century Collections Online. From the internet webs:
 
 ## What is this?
 
-I have taken the [raw XMl and SGML files](http://www.textcreationpartnership.org/docs/texts/ecco_files.html) and fudged them into a directory structure that may or may not make sense. 
+I have taken the [raw XML and SGML files](http://www.textcreationpartnership.org/docs/texts/ecco_files.html) and fudged them into a directory structure that may or may not make sense. 
 
 
 ## So what is the situtation here?
 
-For each batch release available [at this link](http://www.textcreationpartnership.org/docs/texts/ecco_files.html) I have created a `commit` adding all of the files from that release to the repository. [Each commit includes my guess as the date of that release in the commit message.](http://github.com/lofhm/ECCO-TCP/commits/master/) As is probably obvious, I have put the XML files in the xml fold and the SGML files into the sgml folder. Finally, I have added directories containing the header and schema files at the root of this repository. This is probably not a sensible way to organize the repository.
+For each batch release available [at this link](http://www.textcreationpartnership.org/docs/texts/ecco_files.html) I have created a `commit` adding all of the files from that release to the repository. [Each commit includes my guess as the date of that release in the commit message.](http://github.com/lofhm/ECCO-TCP/commits/master/) As is probably obvious, I have put the XML files in the xml folder and the SGML files into the sgml folder. Finally, I have added directories containing the header and schema files at the root of the repository. This is probably not a sensible way to organize the repository. [Please file an issue](https://github.com/lofhm/ECCO-TCP/issues) if you have issue with this structure (or better yet a [https://github.com/lofhm/ECCO-TCP/pulls]!).
 
 
 ## Why are you doing this
 
-I am trying to explore how the Digital Humanities might best take advantage of Git and GitHub as tools for generating, sharing, and maintaining data, scholarship and knowledge.
+I am trying to explore how the Digital Humanities might best take advantage of Git and GitHub as tools for generating, sharing, and maintaining knowledge.
